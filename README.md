@@ -20,9 +20,10 @@
 ## Projects
 ### Bike Share Case Study: How does a bike-share navigate speedy success?
 
-![Bike Share Case Study](/assests/Bike_Share.jpg)
+![Bike Share Case Study](/assets/Bike_Share.jpg)
   
 As a Junior Data Analyst on the marketing analysis team at Cyclistic, a bike share company, I played a pivotal role in analysing usage patterns of casual riders versus annual members.
+
 **Key Contributions**:
 -	**Data Collection and Cleaning**: Gathered and prepared extensive datasets using SQL and R, ensuring accuracy for in-depth analysis.
 -	**Data Analysis and Insights**: Utilised R and the tidyverse package to identify key differences in usage, such as higher weekend usage by casual riders and consistent weekday usage by annual members.
@@ -35,6 +36,7 @@ As a Junior Data Analyst on the marketing analysis team at Cyclistic, a bike sha
 ### Bellabeat Marketing Analysis Case Study: How Can a Wellness Technology Company Play It Smart?
 
 As a Junior Data Analyst on the marketing team at Bellabeat, I contributed to a project aimed at analysing smart device fitness data to uncover growth opportunities for the company.
+
 **Key Contributions**:
 -	**Data Collection and Cleaning**: Collected and cleaned large datasets from Bellabeat’s smart devices using SQL and R, ensuring data accuracy and reliability.
 -	**Data Analysis and Insights**: Utilised R to analyse usage patterns, identifying key trends such as peak usage times, popular features, and user demographics.
