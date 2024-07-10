@@ -1,4 +1,6 @@
-# Data Analyst/Project Manager
+# Azizah Giwa
+
+## Data Analyst | Project Manager
 
 #### Technical Skills: Spreadsheets, SQL, Python, R, Tableau, Power BI, Asana, Microsoft Office.
 
@@ -48,4 +50,4 @@ As a Junior Data Analyst on the marketing team at Bellabeat, I contributed to a 
 
 
 
-![Wellness Technology Case Study](/Showcasing_my_R_Proficiency.pdf)
+<object data="/Showcasing_my_R_Proficiency.pdf" width="1000" height="1000" type='application/pdf'></object>
