@@ -8,7 +8,7 @@
 
 ## Work Experience
 **Broadband Technical Adviser | Shell Energy, England (_May 2023 - April 2024_)**
-- Analysed large datasets using SQL to derive actionable insights, resulting in a 20% increase in customer engagement. Created interactive dashboards in Tableau to visualise trends and patterns, facilitating data driven decision-making.
+- Analysed large datasets using SQL to derive actionable insights, resulting in a 20% increase in customer engagement. Created interactive dashboards in Tableau to visualise trends and patterns, facilitating data-driven decision-making.
 - Analysed customer feedback data using SQL and Python, identifying key trends and insights to improve service quality. Achieved a 15% increase in customer satisfaction scores by implementing data-driven strategies.
 - Spearheaded a major telecommunications infrastructure project (Public Switch Telephone Network (PSTN) migration), delivering on time and under budget, reducing costs by 15%, and increasing network reliability by 20% using Asana and Microsoft Excel for tracking progress.
 
@@ -26,7 +26,7 @@ As a Junior Data Analyst on the marketing analysis team at Cyclistic, a bike sha
 
 **Key Contributions**:
 -	**Data Collection and Cleaning**: Gathered and prepared extensive datasets using SQL and R, ensuring accuracy for in-depth analysis.
--	**Data Analysis and Insights**: Utilised R and the tidyverse package to identify key differences in usage, such as higher weekend usage by casual riders and consistent weekday usage by annual members.
+-	**Data Analysis and Insights**: Utilised R and the 'tidyverse' package to identify key differences in usage, such as higher weekend usage by casual riders and consistent weekday usage by annual members.
 -	**Data Visualisation**: Created compelling visualisations using Tableau and ggplot2, including heatmaps, bar charts, and interactive dashboards to clearly communicate insights.
 -	**Strategic Recommendations**: Proposed targeted marketing strategies, such as weekend membership promotions and commuter-focused campaigns, based on analysed data.
 -	**Executive Presentation**: Delivered a professional presentation with clear visualisations to secure executive approval for the new marketing strategy aimed at increasing annual memberships by 15%.
@@ -34,6 +34,8 @@ As a Junior Data Analyst on the marketing analysis team at Cyclistic, a bike sha
 
 
 ### Bellabeat Marketing Analysis Case Study: How Can a Wellness Technology Company Play It Smart?
+
+![Wellness Technology Case Study](/assets/Wellness_Tech.jpg)
 
 As a Junior Data Analyst on the marketing team at Bellabeat, I contributed to a project aimed at analysing smart device fitness data to uncover growth opportunities for the company.
 
@@ -46,4 +48,4 @@ As a Junior Data Analyst on the marketing team at Bellabeat, I contributed to a 
 
 
 
-
+![Wellness Technology Case Study](/Showcasing_my_R_Proficiency.pdf)
