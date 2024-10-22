@@ -2,7 +2,16 @@
 
 ## Data Analyst | Project Manager
 
-#### Technical Skills: Spreadsheets, SQL, Python, R, Tableau, Power BI, Asana, Microsoft Office.
+#### Technical Skills:   
+- **Data Analysis & Processing:** Proficiency in SQL, Data Cleansing, Exploratory Data Analysis (EDA), A/B Testing, Data Visualisation, Extract Transform Load (ETL) Processes.
+- **Statistical & Machine Learning Models:** Expertise in Statistical Analysis (Hypothesis Testing), Regression Models (Linear, Logistic), Naive Bayes, Decision Trees, Random Forest, AdaBoost, and XGBoost.
+
+#### Technical Tools & Software: 
+- **Programming Languages & Tools:** SQL, Python (numpy, Pandas, Scipy, seaborn, Matplotlib, statsmodels, scikit-learn), R Programming.
+- **Data Visualisation Tools:** Tableau, Power BI.
+- **Office & Productivity Tools:** Asana, Microsoft Excel (Advanced Functions, PivotTables), Microsoft Office Suite.
+
+[My Portfolio](https://azizah-giwa.github.io/AzizahGiwa/)
 
 ## Education
 - MSc, Engineering Management | Coventry University, England | Grade: Distinction (_2021 to 2022_)
